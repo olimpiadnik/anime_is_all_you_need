@@ -10,7 +10,7 @@
 Я скачал датасет с сайта kaggle (https://www.kaggle.com/datasets/hernan4444/anime-recommendation-database-2020). В будущем также планирую дособрать в него данных (Мои попытки спарсить данные можно посмотреть в папке Fails). Сейчас все необходимые данные лежать в папке data
 Что в сыром датасете? Табличка anime-2.csv содержит в себе следующие столбцы: 
 
-MAL_ID: MyAnimelist ID of the anime. (e.g. 1)
+MAL_ID: MyAnimelist ID of the anime. (e.g. 1) \n
 Name: full name of the anime. (e.g. Cowboy Bebop)
 Score: average score of the anime given from all users in MyAnimelist database. (e.g. 8.78)
 Genres: comma separated list of genres for this anime. (e.g. Action, Adventure, Comedy, Drama, Sci-Fi, Space)
